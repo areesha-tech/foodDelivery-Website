@@ -2,7 +2,7 @@
 A responsive food delivery website built using HTML, CSS, and JavaScript that allows users to browse menus, view food items, and place orders through an interactive interface.
 
 
-##✨ Features
+✨## Features
 Browse food items and categories
 Search food by name
 Add and remove items from the cart
